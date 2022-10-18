@@ -1,0 +1,19 @@
+h1{
+    color: teal;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: lightcoral;
+    padding: 50px;
+    border: solid 2px firebrick;
+}
+
+#spanId{
+    font-size: 18px;
+}
